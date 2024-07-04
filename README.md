@@ -64,13 +64,13 @@ The cumulative performance of all models was visualized using a single ROC curve
 
 ### ROC Curve - Cumulative Performance
 
-![ROC Curve](images\output.png)
+![ROC Curve](images/output.png)
 
 The ROC curve graphically represents the trade-off between the true positive rate and false positive rate for the different models. It is a useful tool for comparing the predictive power of multiple classifiers.
 
 ### Accuracy Score Comparison
 
-![Accuracy Score Comparison](images\accuracy.png)
+![Accuracy Score Comparison](images/accuracy.png)
 
 This bar chart compares the accuracy scores of the four models. Accuracy is the proportion of true results (both true positives and true negatives) among the total number of cases examined. From the chart, it is evident that all models, except Logistic Regression, achieved the same accuracy score. Logistic Regression slightly lagged behind, indicating that it might not have captured the patterns in the data as effectively as the other models.
 
