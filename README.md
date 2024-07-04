@@ -64,7 +64,21 @@ The cumulative performance of all models was visualized using a single ROC curve
 
 ### ROC Curve - Cumulative Performance
 
-![ROC Curve](output.png)
+![ROC Curve](images\output.png)
+
+The ROC curve graphically represents the trade-off between the true positive rate and false positive rate for the different models. It is a useful tool for comparing the predictive power of multiple classifiers.
+
+### Accuracy Score Comparison
+
+![Accuracy Score Comparison](images\accuracy.png)
+
+This bar chart compares the accuracy scores of the four models. Accuracy is the proportion of true results (both true positives and true negatives) among the total number of cases examined. From the chart, it is evident that all models, except Logistic Regression, achieved the same accuracy score. Logistic Regression slightly lagged behind, indicating that it might not have captured the patterns in the data as effectively as the other models.
+
+### F1 Score Comparison
+
+![F1 Score Comparison](images/F1%20score.png)
+
+The F1 score is a measure of a model's accuracy on a dataset. It is used to balance the precision-recall trade-off. The bar chart illustrates the F1 scores for each model, showing that all models, except Logistic Regression, achieved the same F1 score. The slightly lower F1 score for Logistic Regression suggests that it may not balance the precision and recall as effectively as the other models.
 
 
-In conclusion, while the initial models provided a baseline for predicting liver disease, there is substantial room for improvement. By addressing the identified issues and exploring the recommended strategies, it is anticipated that future iterations will yield more accurate and reliable predictions.
+These visualizations highlight the differences in model performance, particularly focusing on accuracy and F1 scores. While some models perform similarly across metrics, subtle differences can guide the selection of the most appropriate model for predicting liver disease in patients.
