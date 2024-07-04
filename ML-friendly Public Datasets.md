@@ -1,6 +1,6 @@
 ## Binary Classification
 * [Indian Liver Patient Records](https://www.kaggle.com/uciml/indian-liver-patient-records)
-* [Synthetic Financial Data for Fraud Detection](https://www.kaggle.com/ntnu-testimon/paysim1)
+* [Synthetic Financial Data for Fraud Detection](https://www.kaggle.com/ealaxi/paysim1)
 * [Business and Industry Reports](https://www.kaggle.com/census/business-and-industry-reports)
 * [Can You Predict Product Backorders?](https://www.kaggle.com/tiredgeek/predict-bo-trial)
 * [Exoplanet Hunting in Deep Space](https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data)
